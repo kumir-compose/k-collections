@@ -1,0 +1,9 @@
+project:
+  name: k-collections
+  depends:
+    k-serial: latest
+
+sdk:
+  compiler:
+  release:
+  debug:
