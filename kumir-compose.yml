@@ -4,9 +4,3 @@ project:
     k-serial: latest
   distribute:
     - kcollections.kum
-
-settings:
-  sdk:
-    compiler:
-    release:
-    debug:
